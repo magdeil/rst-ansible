@@ -272,7 +272,7 @@ ip ssh version 2
 
 *********************************************************************
 
-@@ACCESS POINT
+@@ USE TELNET ON ACCESS POINT "telnet 10.M.10.3"
 
 config t
 ip domain name rivanit.com
