@@ -58,10 +58,10 @@
           - destination-pattern 61..
           - session target ipv4:10.61.100.8
           - codec g711ULAW
-       #  - dial-peer voice 62 Voip
-       #  - destination-pattern 62..
-       #  - session target ipv4:10.62.100.8
-       #  - codec g711ULAW
+          - dial-peer voice 62 Voip
+          - destination-pattern 62..
+          - session target ipv4:10.62.100.8
+          - codec g711ULAW
           - dial-peer voice 71 Voip
           - destination-pattern 71..
           - session target ipv4:10.71.100.8
@@ -70,10 +70,10 @@
           - destination-pattern 72..
           - session target ipv4:10.72.100.8
           - codec g711ULAW
-          - dial-peer voice 81 Voip
-          - destination-pattern 81..
-          - session target ipv4:10.81.100.8
-          - codec g711ULAW
+       #  - dial-peer voice 81 Voip
+       #  - destination-pattern 81..
+       #  - session target ipv4:10.81.100.8
+       #  - codec g711ULAW
           - dial-peer voice 82 Voip
           - destination-pattern 82..
           - session target ipv4:10.82.100.8
